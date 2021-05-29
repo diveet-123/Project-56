@@ -1,0 +1,36 @@
+body{
+    text-align:center;
+    background-color: bisque;
+}
+
+div{
+    margin-top: 15px;
+}
+
+.img-section{
+    display: flex;
+    justify-content: center;
+    height: 30px;    
+}
+
+.section-style{
+    margin-right:25;
+    margin-left:25;
+    background-color: white;
+}
+
+.1{
+    height:25px;
+}
+
+.2{
+    height:25px;
+}
+
+.3{
+    height:25px;
+}
+
+.4{
+    height:25px;
+}
